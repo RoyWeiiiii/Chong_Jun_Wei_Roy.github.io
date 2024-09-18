@@ -21,7 +21,7 @@ repository               : "RoyWeiiiii/Chong_Jun_Wei_Roy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/GojoProfile.jpg"
+  avatar           : ""
   name             : "Roy Chong"
   pronouns         : "He/him"  
   bio              : "Computer vision/ AI on Microalgae Biotechnology"
